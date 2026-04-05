@@ -24,3 +24,6 @@ A Python-based command-line tool that generates secure passwords and evaluates t
 
 ## 👨‍💻 Author
 Chinmaya Kumar Bisoyi
+## 📸 Output Screenshot
+
+![Output](output.png)
