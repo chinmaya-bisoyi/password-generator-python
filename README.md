@@ -1,29 +1,27 @@
 # 🔐 Password Generator & Strength Checker (Python)
 
 ## 📌 Description
-A Python-based command-line tool that generates secure passwords and evaluates their strength using multiple validation checks.
+A Python-based command-line application that generates secure passwords and evaluates their strength using multiple validation rules.
 
 ## 🚀 Features
-- Generate random secure passwords
+- Generate strong random passwords
 - Evaluate password strength (Weak, Medium, Strong)
-- Uses uppercase, lowercase, digits, and symbols
-- Interactive CLI-based interface
+- Includes uppercase, lowercase, digits, and symbols
+- Simple CLI-based interface
 
 ## 🛠️ Technologies Used
 - Python
 
 ## ▶️ How to Run
 
-1. Open terminal  
-2. Navigate to folder  
+1. Open terminal
+2. Navigate to project folder
 3. Run:
-   python password_tool.py  
+   python password_tool.py
 
-## 📸 Output Screenshot
-(Add your screenshot here)
-
-## 👨‍💻 Author
-Chinmaya Kumar Bisoyi
 ## 📸 Output Screenshot
 
 ![Output](output.png)
+
+## 👨‍💻 Author
+Chinmaya Kumar Bisoyi
